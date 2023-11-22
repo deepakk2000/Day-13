@@ -1,0 +1,7 @@
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe.config
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.exe
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\bin\Debug\MultipleInterfaces.pdb
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.csproj.AssemblyReference.cache
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.csproj.CoreCompileInputs.cache
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.exe
+D:\.net\Day-13\MultipleInterfaces\MultipleInterfaces\obj\Debug\MultipleInterfaces.pdb
